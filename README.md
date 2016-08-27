@@ -7,7 +7,7 @@
 - [在 Google 工作爽翻天？孩纸你想的太天真了](http://www.ipc.me/workng-in-google.html)   
 - [一套相对清晰易读的指南：怎么去 Google 工作？](http://daily.zhihu.com/story/3968739)  
 
-## 刷题网站    
-- leetcode   
-- career cup
+## 刷题面试网站    
+- 刷题OJ[leetcode](https://leetcode.com/)   
+- 最新面试题，[careercup](https://www.careercup.com/)
 
