@@ -23,7 +23,10 @@
 - [how we hire](https://www.google.com/about/careers/how-we-hire/)
 
 ## Google在乎工程师什么？    
-- coding skill,通过各种项目去体现，学校的、公司的、github上的。    
+- coding skill,通过各种项目去体现，学校的、公司的、github上的。 
+
+## 在Google工作体验    
+- [在谷歌（Google）工作是怎样一番体验？](https://www.zhihu.com/question/24290336)
 
 
 
