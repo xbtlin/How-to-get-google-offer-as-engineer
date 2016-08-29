@@ -6,7 +6,10 @@
 - [Cate：我是如何准备Google面试的](http://blog.jobbole.com/18040/)
 - [在 Google 工作爽翻天？孩纸你想的太天真了](http://www.ipc.me/workng-in-google.html)   
 - [一套相对清晰易读的指南：怎么去 Google 工作？](http://daily.zhihu.com/story/3968739)  
-- [大四学生，想通过两到三年的积累去 Google 工作，应如何准备？](https://www.zhihu.com/question/26246532)
+- [大四学生，想通过两到三年的积累去 Google 工作，应如何准备？](https://www.zhihu.com/question/26246532)    
+
+## 书   
+- [The google résumé : how to prepare for a career and land a job at Apple, Microsoft,. Google, or any top tech company](https://www.uop.edu.jo/download/research/members/495_1887_llll.pdf) 本书作者还写过Crack the coding interview，也非常有名。
 
 ## 刷题面试网站    
 - 刷题OJ[leetcode](https://leetcode.com/)   
